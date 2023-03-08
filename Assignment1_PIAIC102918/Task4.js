@@ -1,0 +1,1 @@
+document.write("<h3>&ensp;&emsp;Yah! I can write HTML content throught JavaScript.</h3>");
